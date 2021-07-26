@@ -116,6 +116,10 @@ article .textLayout {
    
 
 }
+article .textLayout img{
+  margin-bottom: 200px;
+
+}
 article .textLayout2 p {
   font-size: 13px;
   margin-bottom: 2em ;
